@@ -1,4 +1,4 @@
-👋 Hi, I’m @osamaalisadeqali  
+👋 Hi, I’m Osama Sadeq Ali  
 💻 I'm a Information Technology Engineer, Designer, and Security Expert.  
 👀 I’m interested in web and application development, cybersecurity, and UI/UX design.  
 🌱 I’m currently learning advanced security protocols and new design methodologies.  
